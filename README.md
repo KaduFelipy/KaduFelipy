@@ -8,7 +8,7 @@ Olá! Me chamo Kadu e sou estudante de Análise e Desenvolvimento de Sistemas.
 
 - **Linguagens**:
 -  ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript)
--  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (Estudando atualmente!)
+-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                          (Estudando atualmente!)
 
 - **Front-End**:
 -  ![React](https://img.shields.io/badge/-React-blue)  ![HTML5](https://img.shields.io/badge/-HTML5-orange)  ![CSS3](https://img.shields.io/badge/-CSS3-blue)
